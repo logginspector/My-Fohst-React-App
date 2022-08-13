@@ -1,2 +1,2 @@
-# My-Fohst-React-App
-Yaaay 🌈
+First-React-App
+Yaay
